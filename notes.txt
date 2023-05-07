@@ -1,0 +1,311 @@
+the data have to fit in four big things :
+collected and storable
+measurable
+analizable
+visualized
+
+Types of data :
+
+Categorical or qualitative data :
+
+Nominal Data: you can quantify them and there is no numerical value to it.
+Ordinal Data: theres a certain order of differenciable values.
+
+Numerical or Quantitative Data:
+
+Discrete Data: something that is finite (costs, customers).
+Continuous Data: something that is infinite (ages, time).
+
+Statistics
+
+Population vs sample
+
+Population : The entire group that you want to study.
+
+Sample : A specific group that will be used to 
+collect Data (part of the population).
+
+Sampling methods:
+
+Probability sampling methods:
+based on selecting random people
+
+types:
+
+simple random sample: you select random persons 
+for example.
+
+systematic sample: jumps on persons.
+
+stratified sample: you want a clear representation 
+of each population inside of your sample.
+
+cluster sample: divides population in subgroups.
+
+Non probability sampling methods:
+you decide to who you ask
+
+types:
+
+convenience sample: You select people who you know.
+
+Voluntary response sample: You ask to volunteers for 
+taking your survey.
+
+Purposive sample: you select people who for you 
+fit to conduct the research.
+
+Snowball sample: convinience sample but with a 
+snowball effect.
+
+Basic formulas:
+
+Median: The middle number in a data select.
+
+Mode: The number that appers the most in a data set.
+
+Mean: The average of set of numbers that 
+we are working with.
+
+The basics of statistics part 4
+
+Range:
+The difference between the Max and the Min in a Data set.
+It allows us to know what is the spread in the Data.
+example: 2 3 4 5 6 12 | Max=12 - Min=2 = Range=10.
+
+Quartiles:
+A division of observations into Four defined intervals.
+
+Standard Deviation:
+The measure of the variation/dispertion of a Data set.
+
+Variance:
+The measure of the spread of a Data set.
+
+The basics of statistics part 5 :
+
+Decision Tree
+Diagram or a chart that people use to show a statistical
+probability or to determine the possibility for an action
+to happen.
+Where Decision Tree are used.
+
+Information Gain
+Give us how much information a certain variable give 
+us about the outcome.
+Interpretation: A high IG allow us to create a Decision tree,
+that will be more representative of the results that we expect
+to have.
+
+The basics of statistics part 6 :
+
+Probabilities :
+The measure of likelihood that an event will occur in a
+random Experiment.
+Used in :
+-Games of chance
+-Weather prediction
+-Finances
+-Mathematics 
+-Any type of prevision
+
+types of events:
+-Disjoint Event: if two events cannot both happen at the same time.
+Example:The probability that we get one and two simultaneously by
+rolling one dice.
+-Non-Disjoint Events:The Two events can have a common outcome
+Example:Rolling a pair of Dices and having identical numbers.
+
+Type of Probabilities
+-Marginal probability: The probability of an event occuring no
+matter any other variable.
+Example: The probability of drawing a black card in a deck of cards
+-Conditional probability: the probability of an event ocurring
+when another event has occurred.
+Example:Drew a king in a deck of card and that the king is red.
+-Joint Probability:Probability that two event occur at the
+same time.
+Example:Probability of you drew a 1 and a heart in a deck of cards
+
+Probability distribution:
+It's Function that describesthe likelihood of obtaining a possible
+value that a random variable can assume based on different criteria.
+Example:
+-Normal distribution.
+-Binominal distribution.
+-Poisson distribution.
+-Hyper geometric distribution.
+-Many others.
+
+13. introduction to numPy
+
+What is numPy
+-Stands for Numerical Python
+-It's a library consisting of multidimensional array objects
+and a collection of routines for processing those arrays
+-Features of numPy
+
+Advantages of using numPy
+-Array oriented computing.
+-Efficient Multi-dimensional array implementation.
+-Created for Scientific computation.
+-Faster resolution of operations on entire arrays of Data without
+writing loops with use of Standardized Mathematical functions.
+-Different tools that allow:
+_ Reading on Array Data on Disk. 
+_ Writing Array Data on Disk.
+_ Working with different memory mapped files.
+-Integration of Fourier transform capabilities.
+-Linear Algebra and random number generation.
+
+20.The basics of Pandas
+
+Understanding Data Analysis
+Data life cycle
+
+Understanding Pandas
+What is Pandas:
+A library of python that represents the data in a great way
+What are the benefits:
+-More done for less coding.
+-Created to work with python.
+-Extensive set of features.
+-Can handle very efficiently large Data.
+-Great Data representation.
+
+Understanding SciPy
+What is SciPy:
+-Open source python library.
+-Work with NumPy to allow more mathematical functions.
+-Comes with modules for commonly used tasks in
+Scientific programming.
+
+SciPy vs numPy
+
+What is the difference between NumPy and SciPy
+numPy:basic operations.
+Scipy:algebraic functions.
+
+Advantages of using SciPy
+-open source.
+-High level commands to manipulate and 
+visualize data.
+-Powerful and interactive sessions with Python.
+-Easy and Fast.
+
+What are some subpackages of Scipy
+cluster,fft,Integrate,Interpolate,IO,Lg
+
+Data visualisation
+
+What is Data visualisation
+-Visual representation of results.
+-Provide an accesible way to understand patterns
+in Data.
+-Make large amount of Data easy to understand.
+Why we have to visualize data
+-Help with the comprehension of the Data that
+you study.
+-its very easier for our brain to understand
+visualize Data.
+
+MatPlotlib
+
+What is MatPlotlib
+-Plotting library for python.
+-Collection of command that make 
+MatPlotlib work like MatLab.
+
+What is a Plot
+
+-A way to represent small or large amounts of Data
+-What are all Plot types:
+Bar graph, Histogram, Scatter Plot, Area Plot, Pie Plot, etc.
+
+Seaborn 
+
+basics of Seaborn
+What is Seaborn
+-Data visualization tool.
+-Based on Matplotlib.
+
+Why Seaborn is used
+-Can create statistical graphs.
+-Used to create more attractive graphs.
+-Can be used to make Matplotlib graph more attractive.
+
+Seaborn vs Matplotlib
+-What is the difference between Seaborn and Matplotlib
+-Is Seaborn better than Matplotlib
+
+Introduction to Machine Learning
+
+Basics of Machine Learning
+
+What exactly is machine Learning
+-The use of AI to provide systems the ability
+to automatically learn.
+-ML can be the science of making computers learn
+and act like humans.
+-Using algotithms to allow the analysis of Data 
+to make a prediction about something in the world
+
+Examples of Machine Learning
+-Image recognition.
+-Speech recognition.
+-Traffic Prediction.
+-Fraud detection.
+-Financial field.
+-Many more.
+
+What are the different types of ML
+
+-Supervised learning(Task Driven)
+with multiple inputs makes a answer
+-Unsupervised Learning(Data Driven)
+-Reinforcement Learning(Learning from errors)
+trained to be as optimized as possible.
+
+Different ML algorithms
+
+Linear regresion
+-What is linear regression.
+-few examples of linear regression.
+
+Logistic regression
+-What is logistic regression.
+-Few examples of logistic regression.
+
+Decision tree
+-What is decision tree.
+-Few examples of decision tree.
+
+Support Vector Machine (SVM)
+-What is a Suppor Vector Machine algorithm.
+Separate two classes of data.
+-Examples of a support Vector Machine algorithm.
+
+Naive Bayes
+-What is the Naive Bayes algorithm.
+-Examples of Naive Bayes algorithm.
+
+kNN (k- Nearest Neighbors)
+for classification
+-What is the k-nearest Neighbor algorithm.
+-Examples of k-nearest neighbors' algorithm.
+
+K-Means
+-What is the k-Means algorithm.
+-Examples of k-means algorithm.
+
+Random Forest
+-What is the Random Forest algorithm.
+The more trees the more this outcome will be the best
+-Examples of Random Forest algorithm.
+
+Conclusion
+
+statistical concepts
+librarys used in ML
+machine learning
